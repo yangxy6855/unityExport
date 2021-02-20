@@ -8,3 +8,6 @@
 /modules.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/indexLayout.xml
+/riderModule.iml
+/vcs.xml
