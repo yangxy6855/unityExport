@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" pivot="0.5,0.5" anchor="true" overflow="hidden">
+  <displayList>
+    <component id="n2_b91x" name="n2" src="b91xa" fileName="Bg.xml" xy="400,300" pivot="0.5,0.5" anchor="true" size="800,600"/>
+    <component id="n7_b91x" name="n7" src="b91xe" fileName="renwuCom.xml" xy="42,464"/>
+    <component id="n8_b91x" name="n8" src="b91xe" fileName="renwuCom.xml" xy="297,465"/>
+    <component id="n9_b91x" name="n9" src="b91xe" fileName="renwuCom.xml" xy="551,465"/>
+    <movieclip id="n16_wvfp" name="n16" src="wvfpq" fileName="人物战斗模型.jta" xy="144,189" size="71,96"/>
+    <movieclip id="n17_wvfp" name="n17" src="wvfpq" fileName="人物战斗模型.jta" xy="141,334" size="71,96"/>
+    <movieclip id="n18_wvfp" name="n18" src="wvfpq" fileName="人物战斗模型.jta" xy="593,189" size="71,96"/>
+  </displayList>
+</component>

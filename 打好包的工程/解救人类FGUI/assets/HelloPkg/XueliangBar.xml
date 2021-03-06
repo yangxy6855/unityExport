@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="166,16" pivot="0.5,0.5" extention="ProgressBar">
+  <displayList>
+    <image id="n0_b91x" name="n0" src="b91x8" fileName="战斗-血量空条.png" xy="0,0" size="166,16">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_b91x" name="bar" src="b91x7" fileName="战斗-血量.png" xy="0,0" size="166,16"/>
+    <text id="n2_b91x" name="title" xy="0,-2" size="166,16" fontSize="12" align="center" vAlign="middle" autoSize="none" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

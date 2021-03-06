@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" pivot="0.5,0.5">
+  <displayList>
+    <graph id="n2_b91x" name="n2" xy="0,0" size="786,571" type="rect"/>
+    <image id="n1_b91x" name="n1" src="b91x9" fileName="战斗-背景图.png" xy="0,0" size="800,600"/>
+  </displayList>
+</component>

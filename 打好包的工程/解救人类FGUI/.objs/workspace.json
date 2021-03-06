@@ -1,0 +1,23 @@
+{
+  "libview.firstColumnWidth": 268,
+  "libview.iconScale": 0,
+  "backgroundColor": 6710886,
+  "auxline1": true,
+  "canvasColor": 10066329,
+  "auxline2": true,
+  "doc.activeDoc": "ui://3yd2iwadhwcy0",
+  "libview.twoColumn": false,
+  "libview.expandedNodes": [
+    "3yd2iwad",
+    "/"
+  ],
+  "doc.openedDocs": [
+    "ui://3yd2iwadhwcy0",
+    "ui://3yd2iwadb91xj",
+    "ui://3yd2iwadb91xd"
+  ],
+  "snapToGrid": true,
+  "gridColor": 80,
+  "libview.currentGroup": "",
+  "gridSize": 30
+}

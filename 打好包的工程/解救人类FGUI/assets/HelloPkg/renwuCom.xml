@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="240,80">
+  <displayList>
+    <image id="n10_b91x" name="n10" src="b91x5" fileName="战斗-人物底色框.png" xy="0,0" size="239,80"/>
+    <image id="n7_b91x" name="n7" src="b91x6" fileName="战斗-人物头像.png" xy="0,0"/>
+    <component id="n5_b91x" name="n5" src="b91xd" fileName="XueliangBar.xml" xy="81,6" size="157,15">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n11_b91x" name="n11" src="b91xj" fileName="NuqiBar.xml" xy="81,25" size="155,14">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n6_b91x" name="n6" src="b91x2" fileName="战斗-角色等级背景图.png" xy="3,54"/>
+    <text id="n8_b91x" name="n8" xy="138,56" size="50,23" fontSize="14" color="#ffffff" align="center" vAlign="middle" autoSize="none" shadowColor="#000000" shadowOffset="1,1" text="大斌子"/>
+    <graph id="n9_b91x" name="n9" xy="82,52" size="26,26" type="rect" lineColor="#ffffffff" fillColor="#ff006633"/>
+  </displayList>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3yd2iwad">
+  <resources>
+    <component id="hwcy0" name="FlightMainUICom.xml" path="/" exported="true"/>
+    <image id="b91x2" name="战斗-角色等级背景图.png" path="/" exported="true"/>
+    <image id="b91x3" name="战斗-怒气空条.png" path="/" exported="true" scale9grid="41,3,82,6"/>
+    <image id="b91x5" name="战斗-人物底色框.png" path="/" exported="true"/>
+    <image id="b91x6" name="战斗-人物头像.png" path="/" exported="true"/>
+    <image id="b91x7" name="战斗-血量.png" path="/" exported="true"/>
+    <image id="b91x8" name="战斗-血量空条.png" path="/" exported="true"/>
+    <image id="b91x9" name="战斗-背景图.png" path="/" exported="true"/>
+    <component id="b91xa" name="Bg.xml" path="/" exported="true"/>
+    <component id="b91xd" name="XueliangBar.xml" path="/" exported="true"/>
+    <component id="b91xe" name="renwuCom.xml" path="/" exported="true"/>
+    <image id="b91xf" name="怒气suf.png" path="/" exported="true"/>
+    <image id="b91xg" name="战斗-怒气满条pre.png" path="/" exported="true"/>
+    <component id="b91xj" name="NuqiBar.xml" path="/" exported="true"/>
+    <image id="wvfpk" name="战斗2sub.png" path="/"/>
+    <image id="wvfpl" name="战斗1sub.png" path="/"/>
+    <image id="wvfpm" name="战斗2sub(1).png" path="/"/>
+    <image id="wvfpn" name="战斗1sub(1).png" path="/"/>
+    <image id="wvfpo" name="战斗1sub(2).png" path="/"/>
+    <image id="wvfpp" name="战斗2sub(2).png" path="/"/>
+    <movieclip id="wvfpq" name="人物战斗模型.jta" path="/"/>
+  </resources>
+  <publish name="Hello"/>
+</packageDescription>
